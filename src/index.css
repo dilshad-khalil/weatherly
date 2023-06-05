@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+body {
+  user-select: none;
+  font-family: "Poppins";
+}
+
+.dark {
+  height: 100vh;
+  width: 100vw;
+  background-color: #18181c;
+}
+
+.active {
+  background-color: white;
+}
+
+.active p {
+  color: #374957;
+}
+
+.active svg {
+  fill: #374957;
+}
+
+.dark .active svg {
+  fill: #fff;
+}
+.dark .active p {
+  color: #fff;
+}
+
+.dark .active {
+  background-color: #2b2b35;
+}
