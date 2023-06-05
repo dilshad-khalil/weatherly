@@ -1,6 +1,6 @@
 # Weatherly
 
-![Weatherly](https://raw.githubusercontent.com/dilshad-khalil/weatherly/main.png)
+![Weatherly](https://github.com/dilshad-khalil/weatherly/blob/master/main.png)
 
 **Weatherly** is a desktop weather application developed using Vite. It provides information about the current weather state for various cities. The website offers a minimal and beautiful user interface design, making it easy to use and visually appealing.
 
@@ -24,10 +24,10 @@ You can access the live demo of Weatherly [here](https://webweatherly.netlify.ap
 
 Here are a few screenshots of Weatherly's user interface:
 
-![Screenshot 1](https://pasteboard.co/YukJhTTyvgEA.png)
-![Screenshot 2](https://pasteboard.co/ceYtQLqqKvbO.png)
+![Screenshot 1](https://github.com/dilshad-khalil/weatherly/blob/master/cities.png)
+![Screenshot 2](https://github.com/dilshad-khalil/weatherly/blob/master/settings.png)
 -it hurt my eyes till i screenshoted this one
-![Screenshot 3](https://pasteboard.co/YheLLaXOwQP2.png)
+![Screenshot 3](https://github.com/dilshad-khalil/weatherly/blob/master/lightmode.png)
 
 ## Technologies Used
 
