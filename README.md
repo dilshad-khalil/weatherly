@@ -1,6 +1,6 @@
 # Weatherly
 
-![Weatherly](https://raw.githubusercontent.com/yourusername/your-repo-name/main/screenshot.png)
+![Weatherly](https://pasteboard.co/SfmpYhhYn30L.png)
 
 **Weatherly** is a desktop weather application developed using Vite. It provides information about the current weather state for various cities. The website offers a minimal and beautiful user interface design, making it easy to use and visually appealing.
 
@@ -24,9 +24,10 @@ You can access the live demo of Weatherly [here](https://webweatherly.netlify.ap
 
 Here are a few screenshots of Weatherly's user interface:
 
-![Screenshot 1](https://raw.githubusercontent.com/yourusername/your-repo-name/main/screenshots/screenshot1.png)
-![Screenshot 2](https://raw.githubusercontent.com/yourusername/your-repo-name/main/screenshots/screenshot2.png)
-![Screenshot 3](https://raw.githubusercontent.com/yourusername/your-repo-name/main/screenshots/screenshot3.png)
+![Screenshot 1](https://pasteboard.co/YukJhTTyvgEA.png)
+![Screenshot 2](https://pasteboard.co/ceYtQLqqKvbO.png)
+-it hurt my eyes till i screenshoted this one
+![Screenshot 3](https://pasteboard.co/YheLLaXOwQP2.png)
 
 ## Technologies Used
 
@@ -35,6 +36,7 @@ Here are a few screenshots of Weatherly's user interface:
 - CSS
 - JavaScript
 - OpenWeatherMap API
+- framer motion
 
 ## Installation
 
@@ -43,7 +45,7 @@ To run Weatherly locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/dilshad-khalil/weatherly.git
    
 2.Navigate to the project directory:
 `cd your-repo-name`
