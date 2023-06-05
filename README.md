@@ -1,4 +1,4 @@
-# Weatherly
+# Weatherly Not Responsive only Desktop :)
 
 ![Weatherly](https://github.com/dilshad-khalil/weatherly/blob/master/main.png)
 
