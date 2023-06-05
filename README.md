@@ -1,70 +1,59 @@
-# Getting Started with Create React App
+# Weatherly
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Weatherly](https://raw.githubusercontent.com/yourusername/your-repo-name/main/screenshot.png)
 
-## Available Scripts
+**Weatherly** is a desktop weather application developed using Vite. It provides information about the current weather state for various cities. The website offers a minimal and beautiful user interface design, making it easy to use and visually appealing.
 
-In the project directory, you can run:
+## Demo
 
-### `npm start`
+You can access the live demo of Weatherly [here](https://webweatherly.netlify.app/).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Current weather information for any city
+- Temperature display in either Celsius or Fahrenheit
+- Search functionality to find weather details for specific cities
+- Sunrise and sunset time information
+- Wind speed, pressure, humidity, UV index, and visibility data
+- 3-day weather forecast for the selected city
+- Hourly forecast for the selected city
+- Dark and light mode options
+- Settings page to customize temperature and pressure units
 
-### `npm test`
+## Screenshots
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Here are a few screenshots of Weatherly's user interface:
 
-### `npm run build`
+![Screenshot 1](https://raw.githubusercontent.com/yourusername/your-repo-name/main/screenshots/screenshot1.png)
+![Screenshot 2](https://raw.githubusercontent.com/yourusername/your-repo-name/main/screenshots/screenshot2.png)
+![Screenshot 3](https://raw.githubusercontent.com/yourusername/your-repo-name/main/screenshots/screenshot3.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Technologies Used
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Vite
+- HTML
+- CSS
+- JavaScript
+- OpenWeatherMap API
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Installation
 
-### `npm run eject`
+To run Weatherly locally, follow these steps:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Clone the repository:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+   ```bash
+   git clone https://github.com/yourusername/your-repo-name.git
+   
+2.Navigate to the project directory:
+`cd your-repo-name`
+3.Install the dependencies:
+`npm install`
+4.Start the local development server:
+`npm run dev`
+5.Open your browser and visit http://localhost:5173 to access Weatherly.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+##Contribution
+Contributions to Weatherly are welcome! If you encounter any issues or have suggestions for improvements, please open an issue on the GitHub repository. Feel free to fork the repository and submit pull requests as well.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
