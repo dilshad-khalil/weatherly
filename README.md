@@ -1,6 +1,6 @@
 # Weatherly
 
-![Weatherly](https://pasteboard.co/SfmpYhhYn30L.png)
+![Weatherly](https://raw.githubusercontent.com/dilshad-khalil/weatherly/main.png)
 
 **Weatherly** is a desktop weather application developed using Vite. It provides information about the current weather state for various cities. The website offers a minimal and beautiful user interface design, making it easy to use and visually appealing.
 
