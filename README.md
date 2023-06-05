@@ -47,13 +47,13 @@ To run Weatherly locally, follow these steps:
    ```bash
    git clone https://github.com/dilshad-khalil/weatherly.git
    
-2.Navigate to the project directory:
+2. Navigate to the project directory:
 `cd your-repo-name`
-3.Install the dependencies:
+3. Install the dependencies:
 `npm install`
-4.Start the local development server:
+4. Start the local development server:
 `npm run dev`
-5.Open your browser and visit http://localhost:5173 to access Weatherly.
+5. Open your browser and visit http://localhost:5173 to access Weatherly.
 
 ##Contribution
 Contributions to Weatherly are welcome! If you encounter any issues or have suggestions for improvements, please open an issue on the GitHub repository. Feel free to fork the repository and submit pull requests as well.
